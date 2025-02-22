@@ -1,6 +1,6 @@
 # MicroFC SiPM Temperature Compensation
 
-PCB to temperature compensate the gain of a C-Series MicroFC silicon photomultiplier by [onsemi](https://www.onsemi.com/pdf/datasheet/microc-series-d.pdf). Diesnged as a passthrough for the SiPM bias voltage. You can buy all the parts and the PCB using [Kitspace](https://kitspace.org/opengammaproject/MicroFC-TempCo).
+PCB to temperature compensate the gain of a C-Series MicroFC silicon photomultiplier by [onsemi](https://www.onsemi.com/pdf/datasheet/microc-series-d.pdf). Diesnged as a passthrough for the SiPM bias voltage. You can buy all the parts and the PCB using [Kitspace](https://kitspace.org/opengammaproject/MicroFC-TempCo) (non-affiliated).
 
 PCB size is 20 x 40 mm, which is a lot larger than it needs to be, but it's nicer to use with cables this way and solder everything in place.
 
