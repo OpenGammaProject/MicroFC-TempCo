@@ -21,3 +21,5 @@ However, upon re-testing on a heated 3D printer bed in ranges of 20°C - 50°C i
 ![Results Plot](docs/results.png)
 
 The board features standard SMA edge connectors, which can be used with standard SMA cables to connect between the power supply and the SiPM. Alternatively, you can also solder your own wires to the corresponding pads.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J61GLR3G)
